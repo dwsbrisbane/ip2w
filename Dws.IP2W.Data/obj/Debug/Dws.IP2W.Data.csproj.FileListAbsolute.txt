@@ -1,0 +1,8 @@
+C:\dev\DWS.IP2W\Dws.IP2W.Data\bin\Debug\Dws.IP2W.Data.dll
+C:\dev\DWS.IP2W\Dws.IP2W.Data\bin\Debug\Dws.IP2W.Data.pdb
+C:\dev\DWS.IP2W\Dws.IP2W.Data\obj\Debug\Dws.IP2W.Data.csprojResolveAssemblyReference.cache
+C:\dev\DWS.IP2W\Dws.IP2W.Data\obj\Debug\Dws.IP2W.Data.dll
+C:\dev\DWS.IP2W\Dws.IP2W.Data\obj\Debug\Dws.IP2W.Data.pdb
+C:\dev\DWS.IP2W\Dws.IP2W.Data\bin\Debug\Dws.IP2W.Data.dll.config
+C:\dev\DWS.IP2W\Dws.IP2W.Data\bin\Debug\EntityFramework.dll
+C:\dev\DWS.IP2W\Dws.IP2W.Data\bin\Debug\EntityFramework.xml
