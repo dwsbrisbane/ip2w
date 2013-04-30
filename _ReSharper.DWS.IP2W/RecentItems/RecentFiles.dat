@@ -1,39 +1,53 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:Global.asax.cs" caret="0" fromTop="0" />
-    <File id="27356EB6-51B9-4458-8738-93D8996A4ECB/f:Readme.txt/s:..?Readme.txt" caret="256" fromTop="10" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:modernizr-2.6.2.js" caret="806" fromTop="19" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Home/f:Index.cshtml" caret="1779" fromTop="32" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Areas/d:HelpPage/f:ApiDescriptionExtensions.cs" caret="0" fromTop="0" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Areas/d:HelpPage/d:App_Start/f:HelpPageConfig.cs" caret="0" fromTop="0" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Areas/d:HelpPage/f:HelpPage.css" caret="284" fromTop="13" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Shared/f:Error.cshtml" caret="0" fromTop="0" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:angular-bootstrap-prettify.js" caret="0" fromTop="0" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:angular-bootstrap-prettify.min.js" caret="0" fromTop="0" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:_references.js" caret="285" fromTop="6" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:angular-cookies.js" caret="327" fromTop="19" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:jquery-1.9.1.min.map" caret="0" fromTop="0" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:Site.css" caret="0" fromTop="0" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:bootstrap-responsive.min.css" caret="16849" fromTop="9" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:bootstrap-responsive.css" caret="256" fromTop="10" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:bootstrap.css" caret="0" fromTop="0" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:angular.js" caret="0" fromTop="0" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:packages.config" caret="0" fromTop="0" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/f:_ViewStart.cshtml" caret="50" fromTop="2" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:Web.config" caret="1964" fromTop="39" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:App.js" caret="323" fromTop="7" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:BundleConfig.cs" caret="419" fromTop="11" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Shared/f:Index.cshtml" caret="1775" fromTop="18" />
     <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:RouteConfig.cs" caret="590" fromTop="14" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:FilterConfig.cs" caret="398" fromTop="11" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:Global.asax.cs" caret="671" fromTop="15" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:_references.js" caret="285" fromTop="6" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:App.js" caret="118" fromTop="2" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Security/f:BasicAuthHttpModule.cs" caret="143" fromTop="5" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/f:_ViewStart.cshtml" caret="52" fromTop="2" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:FilterConfig.cs" caret="421" fromTop="14" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:BundleConfig.cs" caret="643" fromTop="13" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Shared/f:Error.cshtml" caret="201" fromTop="12" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/f:Web.config" caret="1241" fromTop="0" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:Web.config" caret="1498" fromTop="22" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:packages.config" caret="0" fromTop="0" />
+    <File id="27356EB6-51B9-4458-8738-93D8996A4ECB/f:Readme.txt/s:..?Readme.txt" caret="292" fromTop="12" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:bootstrap.css" caret="31711" fromTop="23" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:CustomBootstrap.css" caret="492" fromTop="17" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Shared/f:_Layout.cshtml" caret="1665" fromTop="22" />
+    <File id="AE039DC6-F906-4921-986D-152EFC7BBE98/f:LogonUser.cs" caret="163" fromTop="8" />
+    <File id="AE039DC6-F906-4921-986D-152EFC7BBE98/f:NewUser.cs" caret="156" fromTop="6" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Controllers/f:HomeController.cs" caret="240" fromTop="13" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Controllers/f:ValuesController.cs" caret="370" fromTop="14" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Controllers/f:AccountController.cs" caret="375" fromTop="18" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Account/f:NewUser.cshtml" caret="1378" fromTop="24" />
   </RecentFiles>
   <RecentEdits>
     <File id="27356EB6-51B9-4458-8738-93D8996A4ECB/f:Readme.txt/s:..?Readme.txt" caret="235" fromTop="8" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:Web.config" caret="1529" fromTop="17" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:BundleConfig.cs" caret="894" fromTop="4" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/f:_ViewStart.cshtml" caret="38" fromTop="1" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Shared/f:Index.cshtml" caret="1383" fromTop="12" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:App.js" caret="323" fromTop="7" />
-    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:FilterConfig.cs" caret="360" fromTop="11" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Security/f:BasicAuthHttpModule.cs" caret="299" fromTop="11" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Controllers/f:ValuesController.cs" caret="33" fromTop="0" />
+    <File id="AE039DC6-F906-4921-986D-152EFC7BBE98/f:NewUser.cs" caret="89" fromTop="4" />
+    <File id="AE039DC6-F906-4921-986D-152EFC7BBE98/f:LogonUser.cs" caret="0" fromTop="0" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Controllers/f:AccountController.cs" caret="375" fromTop="18" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/f:Web.config" caret="23" fromTop="1" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Scripts/f:App.js" caret="118" fromTop="2" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Controllers/f:HomeController.cs" caret="140" fromTop="6" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/f:_ViewStart.cshtml" caret="40" fromTop="1" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:BundleConfig.cs" caret="2209" fromTop="21" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/f:Web.config" caret="1586" fromTop="24" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:App_Start/f:FilterConfig.cs" caret="362" fromTop="11" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Shared/f:_Layout.cshtml" caret="1588" fromTop="19" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Content/f:CustomBootstrap.css" caret="0" fromTop="0" />
+    <File id="367A1D2C-3F58-4160-939F-AF53BB574AD8/d:Views/d:Account/f:NewUser.cshtml" caret="1065" fromTop="17" />
   </RecentEdits>
 </RecentFiles>
