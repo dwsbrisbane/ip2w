@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="367A1D2C-3F58-4160-939F-AF53BB574AD8" ModuleId="Dws.IP2W.Web" />
+  <Module PersistentId="AE039DC6-F906-4921-986D-152EFC7BBE98" ModuleId="Dws.IP2W.Model" />
 </Modules>

@@ -1,5 +1,4 @@
 C:\dev\DWS.IP2W\Dws.IP2W.Model\bin\Debug\Dws.IP2W.Model.dll
 C:\dev\DWS.IP2W\Dws.IP2W.Model\bin\Debug\Dws.IP2W.Model.pdb
-C:\dev\DWS.IP2W\Dws.IP2W.Model\obj\Debug\Dws.IP2W.Model.csprojResolveAssemblyReference.cache
 C:\dev\DWS.IP2W\Dws.IP2W.Model\obj\Debug\Dws.IP2W.Model.dll
 C:\dev\DWS.IP2W\Dws.IP2W.Model\obj\Debug\Dws.IP2W.Model.pdb

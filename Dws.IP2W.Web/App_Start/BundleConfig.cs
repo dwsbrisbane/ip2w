@@ -46,7 +46,7 @@ namespace Dws.IP2W.Web
             bundles.Add(new ScriptBundle("~/bundles/jsapplibs")
                 .IncludeDirectory("~/Scripts/App/", "*.js", searchSubdirectories: false));
 
-            bundles.Add(new StyleBundle("~/Content/jscss")
+            bundles.Add(new StyleBundle("~/Content/css")
                 .Include("~/Content/Site.css"));
 
             bundles.Add(new StyleBundle("~/Content/bootstrapcss", "//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css")

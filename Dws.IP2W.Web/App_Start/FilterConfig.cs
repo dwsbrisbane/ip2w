@@ -9,7 +9,7 @@ namespace Dws.IP2W.Web
             filters.Add(new HandleErrorAttribute());
             //Enable below when ready to secure site
             //filters.Add(new RequireHttpsAttribute());
-            filters.Add(new AuthorizeAttribute());
+            //filters.Add(new AuthorizeAttribute());
         }
     }
 }
